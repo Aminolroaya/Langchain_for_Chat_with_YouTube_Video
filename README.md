@@ -1,1 +1,1 @@
-The code provides chatting with Youtube videos using Langchain.
+The code support Q&A with Youtube videos using Langchain.
