@@ -1,2 +1,1 @@
-# Langchain_For_Customized_Data
-Use you own data with GPT models 
+The code provides chatting with Youtube videos using Langchain.
